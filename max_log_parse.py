@@ -10,7 +10,7 @@ import re
 import datetime
 from datetime import timedelta
 import math
-myFile = 'C:/BuildReleaseExample.log'
+myFile = 'C:/CICD_run.log'
 
 #regex of log file, date, time, then words 
 q = re.compile('((\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2}).(\d{3}) - (\w+.*) (\w+.*))')
