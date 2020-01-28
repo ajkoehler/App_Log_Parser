@@ -6,6 +6,6 @@ Parse a log file of build results from a CI/CD pipeline.  Each entry has a times
 
 Example:
 
-Running:python ak_max_log_parse.py
+Running:python max_log_parse.py
 
 SystemIntegrationTests:  0  days,  0  hours,  28  minutes and  47  seconds
